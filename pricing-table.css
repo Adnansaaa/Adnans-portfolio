@@ -1,0 +1,21 @@
+.pricing-plan{
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555555;
+    margin: 15px;
+}
+
+.p-border {
+    border: 2px solid black;
+  }
+  .h-border {
+    border: 2px solid black;
+  }
+  .p1-border {
+    border: 2px solid black;
+  }
